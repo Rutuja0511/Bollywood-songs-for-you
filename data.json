@@ -3932,6 +3932,16 @@
        "singer": ["Mohit Chauhan"],
        "genre": ["Romantic","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
+    },
+    {
+       "id": 226,
+       "name": "rozana",
+       "lyrics": "https://www.lyricsmint.com/naam-shabana/rozana-shreya-ghoshal",
+       "album": "Naam Shabana",
+       "Duration": "4 min 29 sec",
+       "singer": ["Shreya Ghoshal"],
+       "genre": ["Romantic","Indian Film Pop"],
+       "link": "https://youtu.be/CtgD91Ev4NU"
     }
     
     ]
